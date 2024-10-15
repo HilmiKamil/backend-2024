@@ -1,8 +1,7 @@
-//Nama : Muhamad Hilmi Kamil
-//NIM : 0110223293
-//Kelas : SE02
-
 <?php
+# Nama : Muhamad Hilmi Kamil
+# NIM : 0110223293
+# Kelas : SE02
 
 # membuat class Animal
 class Animal
